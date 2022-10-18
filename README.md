@@ -1,3 +1,2 @@
-# Desenvolvendo jogo Pong
-
-> Status do Projeto: Em Desenvolvimento
+Desenvolvendo jogo Pong
+Status do Projeto: Em Desenvolvimento
